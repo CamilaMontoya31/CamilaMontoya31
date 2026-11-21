@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java, Python and HTML
-- 🌱 I’m currently learning JavaFX
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on open source 
 - 🤔 I’m looking for help with Data Science 
 - 💬 Ask me about HTML
